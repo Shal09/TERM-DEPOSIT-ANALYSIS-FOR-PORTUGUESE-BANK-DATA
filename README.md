@@ -1,7 +1,6 @@
-# Term-Deposit
+# Term-Deposit Analysis
 
-TERM DEPOSIT ANALYSIS FOR PORTUGUESE  BANK DATA
-
+**TERM DEPOSIT ANALYSIS FOR PORTUGUESE BANK DATA **
 Dataset Description 
 
 
