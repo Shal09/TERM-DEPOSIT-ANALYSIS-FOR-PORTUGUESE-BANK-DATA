@@ -1,6 +1,6 @@
 # Term-Deposit
 
-Dataset Description ![image](https://github.com/user-attachments/assets/b2c7f517-1356-404a-8d91-70478ce218b0)
+Dataset Description 
 
 
 A Portuguese bank data is collected from 2008 to 2013 is analyzed.
